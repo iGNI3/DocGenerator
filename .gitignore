@@ -1,0 +1,25 @@
+# Virtual environment
+.venv/
+
+# Environment variables
+.env
+
+# Generated documents
+outputs/*.docx
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+
+# Node
+node_modules/
+frontend/dist/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
